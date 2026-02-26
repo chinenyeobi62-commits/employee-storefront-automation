@@ -1,10 +1,10 @@
-# employee-storefront-automation
+# Employee-Storefront-Automation
 Employee Storefront App Automation System
-Overview
+## Overview
 
 This project involved redesigning and automating a manual internal employee request approval system using Microsoft Power Platform. The objective was to eliminate bottlenecks, improve approval speed, and centralize workflow tracking.
 
-Business Problem
+## Business Problem
 
 The organization relied on:
 
@@ -20,11 +20,11 @@ Frequent follow-up delays
 
 This created operational inefficiencies and process bottlenecks.
 
-Objective
+## Objective
 
 Design and implement a scalable, structured automation system to improve processing efficiency and data governance.
 
-Solution Approach
+## Solution Approach
 
 Conducted stakeholder interviews to understand workflow requirements
 
@@ -40,7 +40,7 @@ Built centralized data storage using Dataverse
 
 Created user documentation for adoption support
 
-Tools & Technologies
+## Tools & Technologies
 
 Power Apps
 
@@ -51,7 +51,7 @@ Dataverse
 SharePoint
 
 
-Results
+## Results
 
 75% reduction in approval turnaround time
 
