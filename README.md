@@ -6,19 +6,19 @@ This project involved redesigning and automating a manual internal employee requ
 
 ## Business Problem
 
-The organization relied on:
+An organization relied on a manual approval process for internal employee requests (storefront orders), resulting in:
 
-Manual email-based approvals
+3-day average approval turnaround time
 
-3-day average turnaround time
+Heavy email dependency
 
-Limited visibility into request status
+Lack of visibility into request status
 
 Duplicate data entries
 
 Frequent follow-up delays
 
-This created operational inefficiencies and process bottlenecks.
+The process created operational bottlenecks and reduced overall efficiency.
 
 ## Objective
 
@@ -32,7 +32,7 @@ Mapped the current process using BPMN
 
 Identified bottlenecks in routing and visibility
 
-Designed structured approval routing logic
+Designed a centralized automation solution
 
 Implemented automated workflows using Power Automate
 
@@ -40,9 +40,9 @@ Built centralized data storage using Dataverse
 
 Created user documentation for adoption support
 
-## Tools & Technologies
+## Tools Used
 
-Power Apps
+Microsoft Power Apps
 
 Power Automate
 
@@ -53,12 +53,11 @@ SharePoint
 
 ## Results
 
-75% reduction in approval turnaround time
+Reduced approval turnaround time from 3 days to under 6 hours (75% improvement)
 
-60% reduction in manual follow-ups
+Eliminated manual email-based tracking
 
-Centralized request tracking
+Centralized request data improving reporting clarity
+Reduced follow-up delays by 60%
 
-Improved data integrity
-
-Increased stakeholder visibility
+Improved stakeholder visibility into request status in real time
