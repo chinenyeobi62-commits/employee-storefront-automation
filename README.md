@@ -8,15 +8,15 @@ This project involved redesigning and automating a manual internal employee requ
 
 An organization relied on a manual approval process for internal employee requests (storefront orders), resulting in:
 
-3-day average approval turnaround time
+- 3-day average approval turnaround time
 
-Heavy email dependency
+- Heavy email dependency
 
-Lack of visibility into request status
+- Lack of visibility into request status
 
-Duplicate data entries
+- Duplicate data entries
 
-Frequent follow-up delays
+- Frequent follow-up delays
 
 The process created operational bottlenecks and reduced overall efficiency.
 
@@ -26,38 +26,38 @@ Design and implement a scalable, structured automation system to improve process
 
 ## Solution Approach
 
-Conducted stakeholder interviews to understand workflow requirements
+- Conducted stakeholder interviews to understand workflow requirements
 
-Mapped the current process using BPMN
+- Mapped the current process using BPMN
 
-Identified bottlenecks in routing and visibility
+- Identified bottlenecks in routing and visibility
 
-Designed a centralized automation solution
+- Designed a centralized automation solution
 
-Implemented automated workflows using Power Automate
+- Implemented automated workflows using Power Automate
 
-Built centralized data storage using Dataverse
+- Built centralized data storage using Dataverse
 
-Created user documentation for adoption support
+- Created user documentation for adoption support
 
 ## Tools Used
 
-Microsoft Power Apps
+- Microsoft Power Apps
 
-Power Automate
+- Power Automate
 
-Dataverse
+- Dataverse
 
-SharePoint
+- SharePoint
 
 
 ## Results
 
-Reduced approval turnaround time from 3 days to under 6 hours (75% improvement)
+- Reduced approval turnaround time from 3 days to under 6 hours (75% improvement)
 
-Eliminated manual email-based tracking
+- Eliminated manual email-based tracking
 
-Centralized request data improving reporting clarity
-Reduced follow-up delays by 60%
+- Centralized request data, improving reporting clarity
+- Reduced follow-up delays by 60%
 
-Improved stakeholder visibility into request status in real time
+- Improved stakeholder visibility into request status in real time
